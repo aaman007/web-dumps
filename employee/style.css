@@ -1,0 +1,23 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-image : url(library.jpg);
+}
+.card input[type="text"]{
+	margin-top:10px;
+	text-align: center;
+	width:50%;
+}
+.card input[type="email"]{
+	margin-top:10px;
+	text-align: center;
+	width:50%;
+}
+.card input[type="number"]{
+	margin-top:10px;
+	text-align: center;
+	width:50%;
+}
+.card input[type="submit"]{
+	margin-top:15px;
+}

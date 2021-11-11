@@ -1,0 +1,8 @@
+Create a Database with name : mydb
+Create a table with name : employee
+	employee
+		id BIGINT A.I
+		firstname VARCHAR 100
+		lastname VARCHAR 100
+		email varchar 100
+		phone int 14

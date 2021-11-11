@@ -1,0 +1,37 @@
+body{
+	margin-left: 5px;
+	margin-right: 5px;
+}
+.bigBox{
+	width: 1335px;
+	height: 532px;
+	border:solid 2px black;
+}
+.header{
+	width: 1331px;
+	height:120px;
+	border: solid 2px black;
+}
+.box{
+	margin: 0 auto;
+	width: 800px;
+	height: 404px;
+	position: relative;
+	border: solid 2px black;
+}
+.miniBox{
+	margin: 0 auto;
+	margin-top: 2px;
+	width: 792px;
+	height: 396px;
+	border: solid 2px black;
+}
+.miniBox h1{
+	line-height: 392px;
+	vertical-align: middle;
+}
+.footer{
+	width: 1335px;
+	height: 101px;
+	border: solid 2px black;
+}

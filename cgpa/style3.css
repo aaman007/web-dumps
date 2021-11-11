@@ -1,0 +1,39 @@
+body{
+	margin-left: 5px;
+	margin-right: 5px;
+}
+.bigBox{
+	width: 1350px;
+	height: 635px;
+	border:solid 2px black;
+}
+.header{
+	margin: 0 auto;
+	margin-top: 3px;
+	width: 1340px;
+	height:80px;
+	border: solid 2px black;
+}
+.content1{
+	margin: 0 auto;
+	margin-top: 3px;
+	width: 1340px;
+	height:130px;
+	border: solid 2px black;
+}
+.navigation{
+	margin-top: 3px;
+	margin-left: 3px;
+	float: left;
+	width: 240px;
+	height: 401px;
+	border: solid 2px black;
+}
+.content{
+	margin-top: 3px;
+	float: left;
+	width: 1098px;
+	height: 401px;
+	border: solid 2px black;
+	border-left: 0px;
+}
